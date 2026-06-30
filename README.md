@@ -223,8 +223,8 @@ customer-behavior-analytics
 **Sehajpreet Kaur**  
 Data Analytics & Business Intelligence
 
-- 📧 [your.email@example.com](sehajpreetkaur5505@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sehajpreet-kaur-600aa63a0/)
+- 📧 (sehajpreetkaur5505@gmail.com)
+- 💼 (https://www.linkedin.com/in/sehajpreet-kaur-600aa63a0/)
 
 Built as part of my Data Analytics portfolio. Open to freelance projects, feedback, and collaboration.
 
