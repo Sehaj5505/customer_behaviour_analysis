@@ -1,14 +1,10 @@
 
-readme_content = """# 📊 Customer Behavior Analytics Dashboard
+# 📊 Customer Behavior Analytics Dashboard
 
 A Power BI dashboard analyzing **3,900 customer transactions** to uncover product performance, seasonal trends, geographic distribution, and customer segmentation insights. Built to support data-driven decisions in retail fashion.
 
-> 🔗 **Live Interactive Dashboard:** [Power BI Service Link](https://app.powerbi.com/links/your-dashboard-link)  
-> 📁 **Source Files & PBIX:** [GitHub Repository](https://github.com/yourusername/customer-behavior-analytics)
 
----
-
-## 📌 Project Overview
+# 📌 Project Overview
 
 Retail businesses collect vast amounts of customer data, but turning it into actionable insights is the real challenge. This dashboard was built to answer critical business questions — from identifying retention risks to optimizing inventory and re-aligning customer loyalty tiers.
 
@@ -16,7 +12,7 @@ The analysis reveals a **critical retention problem**: every customer in the dat
 
 ---
 
-## 🎯 Objectives
+# 🎯 Objectives
 
 - Analyze overall business performance through KPIs
 - Identify top-performing products and seasonal trends
