@@ -2,6 +2,7 @@
 # 📊 Customer Behavior Analytics Dashboard
 
 A Power BI dashboard analyzing **3,900 customer transactions** to uncover product performance, seasonal trends, geographic distribution, and customer segmentation insights. Built to support data-driven decisions in retail fashion.
+
 ---
 
 ## 📌 Project Overview
