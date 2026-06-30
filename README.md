@@ -2,9 +2,9 @@
 # 📊 Customer Behavior Analytics Dashboard
 
 A Power BI dashboard analyzing **3,900 customer transactions** to uncover product performance, seasonal trends, geographic distribution, and customer segmentation insights. Built to support data-driven decisions in retail fashion.
+---
 
-
-# 📌 Project Overview
+## 📌 Project Overview
 
 Retail businesses collect vast amounts of customer data, but turning it into actionable insights is the real challenge. This dashboard was built to answer critical business questions — from identifying retention risks to optimizing inventory and re-aligning customer loyalty tiers.
 
@@ -12,7 +12,7 @@ The analysis reveals a **critical retention problem**: every customer in the dat
 
 ---
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 - Analyze overall business performance through KPIs
 - Identify top-performing products and seasonal trends
@@ -80,7 +80,7 @@ High-level KPIs, top products, revenue by season and state, and key performance 
 - Revenue by State (table with data bars)
 - Insight text boxes with actionable takeaways
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](Executive%20Summary.png)
 
 ---
 
@@ -94,7 +94,7 @@ Deep-dive into customer segmentation, stocking alignment, and loyalty vs. freque
 - 100% Stacked Column: CustomerType × PurchaseFrequency
 - Insight text boxes with strategic recommendations
 
-![Customer & Season Analysis](screenshots/customer_season_analysis.png)
+![Customer & Season Analysis](Customer%20%26%20Season%20Analysis.png)
 
 ---
 
@@ -195,11 +195,12 @@ Deep-dive into customer segmentation, stocking alignment, and loyalty vs. freque
 customer-behavior-analytics
 │
 ├── customer_behaviour_analysis.pbix
+├── customer_behaviour_analysis.pbit
 ├── data/
-│   └── cleaned_customer_shopping_behaviour.csv
-├── screenshots/
-│   ├── executive_summary.png
-│   └── customer_season_analysis.png
+│   ├── cleaned_customer_shopping_behaviour.csv
+│   └── customer_shopping_behavior.csv
+├── Executive Summary.png
+├── Customer & Season Analysis.png
 └── README.md
 ```
 
@@ -223,8 +224,12 @@ Data Analytics & Business Intelligence
 
 - 📧 [your.email@example.com](sehajpreetkaur5505@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sehajpreet-kaur-600aa63a0/)
+- 🔗 [Portfolio](https://yourportfolio.com)
 
 Built as part of my Data Analytics portfolio. Open to freelance projects, feedback, and collaboration.
 
 If you found this project useful, feel free to ⭐ this repository.
 
+
+print("README.md updated with correct image paths!")
+print(f"Length: {len(readme_content)} characters")
