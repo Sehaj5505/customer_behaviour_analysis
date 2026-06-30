@@ -225,12 +225,8 @@ Data Analytics & Business Intelligence
 
 - 📧 [your.email@example.com](sehajpreetkaur5505@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sehajpreet-kaur-600aa63a0/)
-- 🔗 [Portfolio](https://yourportfolio.com)
 
 Built as part of my Data Analytics portfolio. Open to freelance projects, feedback, and collaboration.
 
 If you found this project useful, feel free to ⭐ this repository.
 
-
-print("README.md updated with correct image paths!")
-print(f"Length: {len(readme_content)} characters")
